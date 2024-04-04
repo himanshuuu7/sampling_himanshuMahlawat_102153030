@@ -1,4 +1,4 @@
-# Sampling Assignment - Divyam
+# Sampling Assignment - HIMANSHU
 ## Data Sampling and Model Evaluation
 Name: Himanshu Mahlawat<br>
 Roll No. 102153030<br>
